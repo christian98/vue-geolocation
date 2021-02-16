@@ -11,6 +11,7 @@
     "url": "https://github.com/scaccogatto/vue-geolocation.git"
   },
   "main": "dist/vue-geolocation.js",
+  "types": "types/index.d.ts",
   "license": "MIT",
   "scripts": {
     "start": "webpack --config webpack.config.js",
